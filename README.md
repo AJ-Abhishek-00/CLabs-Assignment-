@@ -8,28 +8,6 @@ The application follows a **scalable production-ready architecture** with proper
 
 ---
 
-## Live Demo
-
-Frontend:
-
-```
-https://your-frontend-url.vercel.app
-```
-
-Backend API:
-
-```
-https://your-backend-url.onrender.com
-```
-
-API Documentation:
-
-```
-https://your-backend-url.onrender.com/docs
-```
-
----
-
 ## Tech Stack
 
 ### Frontend
