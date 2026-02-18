@@ -8,6 +8,18 @@ The application follows a **scalable production-ready architecture** with proper
 
 ---
 
+
+🌐 Live Demo
+
+🔗 Frontend:
+https://clabs-joitleb3a-abhis-projects-db8c8177.vercel.app
+
+🔗 Backend API:
+https://deploytest-vlmn.onrender.com
+
+
+
+
 ## Tech Stack
 
 ### Frontend
